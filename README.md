@@ -12,6 +12,8 @@ Run `ng serve` or `npm start` for a dev server. Navigate to `http://localhost:42
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
+A production build is already made, so feel free to host it anywere and try it out
+
 ## Running unit tests
 
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
